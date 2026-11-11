@@ -50,9 +50,10 @@ EZ Cam records your screen, camera and voice, lets you polish the result on a mu
 ### Editing on the timeline
 - Unlimited tracks. Move, trim, split, duplicate, copy and paste clips, alone or as a multi-selection.
 - **Groups** keep clips on different tracks together.
-- **In/Out ranges** and **ripple delete** to cut out mistakes and close the gaps across every track at once.
+- **In/Out ranges** and **ripple delete** to cut out mistakes and close the gaps across every track at once. Alt+drag moves a range as a whole, and looped playback repeats it.
 - **Markers** on the ruler, which become **YouTube chapters** when you upload.
-- **Right-click menus** for the common edits on clips, tracks, markers and media.
+- **Right-click menus** for the common edits on clips, tracks, keyframes, markers and media, including **Remove empty tracks**.
+- Change settings for **several clips at once**: audio, picture, cursor, transitions, shadow and text style.
 - **Extend frame** (freeze) to hold a moment while you talk over it.
 - **Clip speed** to speed up or slow down a section.
 - Snap, undo/redo for nearly everything, autosave and crash recovery.
@@ -63,7 +64,7 @@ EZ Cam records your screen, camera and voice, lets you polish the result on a mu
 
 ### Animation
 - **Keyframe animation** of position, size, rotation and opacity for any clip, with easing (smooth, overshoot, bounce, elastic and more).
-- **Animate mode**: move the playhead, drag or resize the clip on the preview, and a keyframe is made. A dotted motion path shows where it goes.
+- **Animate mode**: move the playhead, drag or resize the clip on the preview, and a keyframe is made; drag an arrow's end to turn it. A dotted motion path shows where it goes, and keyframes can be dragged on the timeline to retime them.
 - Ready-made **animations** (slide in, pop, Ken Burns, picture-in-picture…) and **behaviors** for annotations (typewriter, fly in, pulse, float…).
 - **Zoom-n-Pan**, including **automatic zooms** that follow your clicks and typing.
 - **Transitions** between clips: cross-dissolve, push, slide, wipe, dip to black and more.
@@ -74,9 +75,17 @@ EZ Cam records your screen, camera and voice, lets you polish the result on a mu
 
 ### Audio
 - Volume, fades and **volume envelopes** you draw right on the clip.
-- **Noise removal**, voice **EQ** and **compressor**.
-- **Loudness normalizing**, and **automatic ducking** of music under your voice.
+- **Voice clean-up** tools that work on a copy, never your original file:
+  - **Noise removal** for hiss, fan noise and hum
+  - **De-click** for mouth clicks, lip smacks and crackle
+  - **De-plosive** for the thump of "p" and "b" sounds, only while it happens
+  - **De-breath** to turn down breaths between phrases
+  - **De-ess** to soften harsh "s" and "sh" sounds
+- Each tool has Light, Medium and Strong settings, plus **Fine-tune** sliders for custom settings, and **Hear only what's removed** to check that only the noise is going.
+- Voice **EQ** and a **compressor** that only turns loud parts down (no hidden boost).
+- **Loudness normalizing**, and **automatic ducking** of music under your voice, with an adjustable fade back up.
 - Per-track volume with level meters, plus a master **level meter with LUFS** to keep your mix at YouTube loudness.
+- A **master limiter** with input gain and ceiling, so loud moments never distort. Playback and export sound exactly the same.
 - **Narration** recording straight onto the timeline, and **text to speech** (including ElevenLabs voices).
 
 ### Reuse
