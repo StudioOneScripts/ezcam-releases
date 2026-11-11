@@ -56,6 +56,7 @@ EZ Cam records your screen, camera and voice, lets you polish the result on a mu
 - Change settings for **several clips at once**: audio, picture, cursor, transitions, shadow and text style.
 - **Extend frame** (freeze) to hold a moment while you talk over it.
 - **Clip speed** to speed up or slow down a section.
+- **Close zoom** down to single milliseconds, with a detailed waveform, for precise audio edits.
 - Snap, undo/redo for nearly everything, autosave and crash recovery.
 
 ### Annotations
@@ -65,9 +66,11 @@ EZ Cam records your screen, camera and voice, lets you polish the result on a mu
 ### Animation
 - **Keyframe animation** of position, size, rotation and opacity for any clip, with easing (smooth, overshoot, bounce, elastic and more).
 - **Animate mode**: move the playhead, drag or resize the clip on the preview, and a keyframe is made; drag an arrow's end to turn it. A dotted motion path shows where it goes, and keyframes can be dragged on the timeline to retime them.
-- Ready-made **animations** (slide in, pop, Ken Burns, picture-in-picture…) and **behaviors** for annotations (typewriter, fly in, pulse, float…).
+- Ready-made **animations** (slide in, pop, Ken Burns, picture-in-picture…) and **behaviors** for annotations (typewriter, fly in, slide, pulse, float…).
 - **Zoom-n-Pan**, including **automatic zooms** that follow your clicks and typing.
 - **Transitions** between clips: cross-dissolve, push, slide, wipe, dip to black and more.
+- **3D transitions**: cube rotate, flip, doors open and swing in, drawn in true perspective.
+- Change a transition's length by **dragging its edge** on the timeline. Between two clips, both halves change together so it stays centred on the cut.
 
 ### Visual effects
 - Shadow, rounded corners, colour adjustments, blur and other effects.
@@ -86,10 +89,12 @@ EZ Cam records your screen, camera and voice, lets you polish the result on a mu
 - **Loudness normalizing**, and **automatic ducking** of music under your voice, with an adjustable fade back up.
 - Per-track volume with level meters, plus a master **level meter with LUFS** to keep your mix at YouTube loudness.
 - A **master limiter** with input gain and ceiling, so loud moments never distort. Playback and export sound exactly the same.
+- Choose the **playback device**, such as your audio interface or headphones, in Settings.
 - **Narration** recording straight onto the timeline, and **text to speech** (including ElevenLabs voices).
 
 ### Reuse
-- **Library**: save intros, outros, lower thirds, logos and music once and drop them into any project.
+- **Library**: save intros, outros, lower thirds, logos and music once and drop them into any project. Saved designs scale to fit any canvas size, including vertical video.
+- **Starter designs** come with the app: 8 lower thirds and 10 titles, most of them animated (news bar, social handle, typewriter, cinematic, neon, subscribe button and more), all fully editable.
 - **Presets**: save a clip's look, audio settings or animation and apply it to other clips with one click.
 
 ### Export and share
