@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://studioonescripts.github.io/ezcam-site/assets/icon.png" width="96" alt="EZ Cam icon">
+  <img src="https://studioonescripts.github.io/ezcam-site/assets/EZCam.png" width="96" alt="EZ Cam icon">
 </p>
 
 <h1 align="center">EZ Cam</h1>
