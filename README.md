@@ -130,7 +130,7 @@ EZ Cam records your screen, camera and voice, lets you polish the result on a mu
 
 EZ Cam has a full illustrated user guide built in: press **F1** or choose **Help → User Guide**.
 
-Your recordings and projects stay on your computer. EZ Cam only goes online to check GitHub for updates, to upload to YouTube when you choose to, to ElevenLabs if you use text to speech with your own ElevenLabs key, and once to download the speech recognition engine and model (from GitHub and Hugging Face) the first time you transcribe. Transcription itself runs on your PC. See the [privacy policy](https://studioonescripts.github.io/ezcam-site/privacy.html).
+Your recordings and projects stay on your computer, and transcription, word timing, voice clean-up and background effects all run on your PC. EZ Cam only goes online to check GitHub for updates; to upload to YouTube when you choose to; to send text to ElevenLabs (text to speech) or Anthropic (Ask Claude) if you use them with your own API key; and once, on first use, to download the tools and models those offline features run on (from GitHub, Hugging Face and Google). See the [privacy policy](https://studioonescripts.github.io/ezcam-site/privacy.html).
 
 ---
 
