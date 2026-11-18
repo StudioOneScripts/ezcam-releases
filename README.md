@@ -20,7 +20,7 @@
 </p>
 
 <p align="center">
-  <img src="https://studioonescripts.github.io/ezcam-site/assets/EZCam2.png" alt="The EZ Cam editor: media and effects on the left, preview in the middle, properties on the right, timeline below">
+  <img src="https://studioonescripts.github.io/ezcam-site/assets/EZCam3.png" alt="The EZ Cam editor: media and effects on the left, preview in the middle, properties on the right, timeline below">
 </p>
 
 EZ Cam records your screen, camera and voice, lets you polish the result on a multi-track timeline (or simply by editing the text of what you said), and exports it or uploads it straight to your YouTube channel. It's made for tutorials, demos, lessons and walkthroughs, where you want a clean result without a steep learning curve.
